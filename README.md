@@ -1,6 +1,3 @@
-# Machine_Learning
-1 Day Machine Learning Course
-
 <p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png?raw=true" width="220" height="200" />
 </p>
